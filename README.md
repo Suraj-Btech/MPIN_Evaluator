@@ -91,7 +91,7 @@ Reflects industry practices in security and testing.
 Suraj Kumar
 🎓 B.Tech Final Year, NIET
 💡 Interested in AI/ML, Secure Systems, and Full-Stack Development
-📫 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/surajkumarofficially/))
+📫 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/surajkumarofficially/)
 
 ⭐ If you found this project useful, don’t forget to star the repo — it motivates me to keep building meaningful projects.
 
